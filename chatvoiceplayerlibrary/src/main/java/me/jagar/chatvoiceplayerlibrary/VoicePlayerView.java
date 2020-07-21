@@ -197,6 +197,8 @@ import java.net.URLConnection;
 
             } catch (IOException e) {
                 e.printStackTrace();
+            } catch (Exception e) {
+                e.printStackTrace();
             }
         }
 

@@ -85,11 +85,13 @@ voicePlayerView.setAudio(AUDIO_FILE_PATH);
 `hidePlayProgressbar()`<br>
 `refreshPlayer(String audioPath)`<br>
 
+## credits Jagar Yousef
+
 # License 
 ```
 MIT License
 
-Copyright (c) 2019 Jagar Yousef
+Copyright (c) 2020 Job Getabu
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

@@ -1,4 +1,4 @@
-(https://img.shields.io/codefactor/grade/github/jagaryousef/chatvoiceplayer) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JobGetabu/KaziChatVoicePlayer) ![GitHub](https://img.shields.io/github/license/JobGetabu/KaziChatVoicePlayer) 
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JobGetabu/KaziChatVoicePlayer) ![GitHub](https://img.shields.io/github/license/JobGetabu/KaziChatVoicePlayer) 
 [![](https://jitpack.io/v/JobGetabu/KaziChatVoicePlayer.svg)](https://jitpack.io/#JobGetabu/KaziChatVoicePlayer)
 </p>
 
